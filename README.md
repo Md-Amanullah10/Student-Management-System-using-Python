@@ -5,11 +5,15 @@
 Managing student records manually? Let's automate it! 🎯
 
 I recently built a Student Grades Management System that allows users to:
+
 ✅ Add, update, and delete student records
+
 ✅ View all students in a structured format
+
 ✅ Handle invalid inputs gracefully
 
 🔹 Tech Stack: Python 🐍 | Dictionaries | Exception Handling
+
 🔹 Real-World Use: Schools, universities, or even HR systems!
 
 
@@ -17,7 +21,9 @@ I recently built a Student Grades Management System that allows users to:
 
 📌 Steps in the Flowchart
 1️⃣ Start the Program
+
 2️⃣ Display Menu Options
+
 3️⃣ User Chooses an Option (1-5)
 
 (1) Add Student → Enter name & grade → Store in dictionary
