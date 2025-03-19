@@ -20,6 +20,7 @@ I recently built a Student Grades Management System that allows users to:
 
 
 📌 Steps in the Flowchart
+
 1️⃣ Start the Program
 
 2️⃣ Display Menu Options
@@ -31,7 +32,9 @@ I recently built a Student Grades Management System that allows users to:
 (3) Delete Student → Check if student exists → Remove from dictionary
 (4) View All Students → Display stored students
 (5) Exit Program
+
 4️⃣ Handle Invalid Input
+
 5️⃣ Repeat Until User Chooses Exit
 
 
